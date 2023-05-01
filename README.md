@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://file.notion.so/f/s/9ea79750-a6e3-489a-bb74-7500e9843db4/study3.png?id=1070cc02-91fb-49d8-a3a1-9c21186c18b2&table=block&spaceId=43c03df8-58d2-49b3-b468-13d6af71e3e2&expirationTimestamp=1682649249736&signature=lBHND655lyCj7uKvx-Br8-GKHNpMarVYDqKJycFbwGQ&downloadName=study3.png" alt="Logo" width="80" height="80">
-  </a>
+
+![dd](https://user-images.githubusercontent.com/122503466/235397965-2f5855f8-de89-4604-bb4b-e8bf2ef3fa52.png)
 
   <h3 align="center">StudyTime Project</h3>
 
